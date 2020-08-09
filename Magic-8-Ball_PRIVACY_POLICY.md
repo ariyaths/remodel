@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy governs your use of the software application Magic 8 Ball (“Application”) for mobile devices that was created by Harihara Sujit Nair.The Application is a translator.  
+This privacy policy governs your use of the software application Magic 8 Ball (“Application”) for mobile devices that was created by Harihara Sujit Nair. This app can help take decisions for the future, it is better than using a coin flip.  
 
 ## What information does the Application obtain and how is it used?
 

@@ -24,6 +24,21 @@ Since we do not have any private information, we can't give it to third parties.
 
 You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
+## Data Retention Policy, Managing Your Information
+
+We do not retain User Provided data. We do not retain Automatically Collected information. 
+
+### Children
+
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, they can ignore it as we do not receive or store any information.
+
+### Security
+
+We are concerned about safeguarding the confidentiality of your information. So we do not seek or collect any personal or automatic information.
+
+### Changes
+
+
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.

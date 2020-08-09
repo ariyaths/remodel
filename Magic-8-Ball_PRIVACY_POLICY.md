@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy governs your use of the software application Translatit (“Application”) for mobile devices that was created by Omkar Sujit Nair.The Application is a translator.  
+This privacy policy governs your use of the software application Magic 8 Ball (“Application”) for mobile devices that was created by Harihara Sujit Nair.The Application is a translator.  
 
 ## What information does the Application obtain and how is it used?
 

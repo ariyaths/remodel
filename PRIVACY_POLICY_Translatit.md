@@ -38,22 +38,16 @@ We are concerned about safeguarding the confidentiality of your information. So 
 
 ### Changes
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy here: .
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy here: https://github.com/ariyaths/remodel/commits/master/PRIVACY_POLICY_Translatit.md.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Your Consent
 
-| Version | Supported          |
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in India. If you reside outside India your information will be transferred, processed and stored here under the most stringent privacy standards.
+
+## Contact us
+
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at
+
+| Version | Data Collected     |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+| 1.0     | no data collected  |
